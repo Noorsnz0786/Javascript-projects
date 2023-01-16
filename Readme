@@ -1,3 +1,6 @@
+live project 
+https://guessthenumbernoorain.netlify.app/
+
 This code is for a guessing game where the player tries to 
 guess a randomly generated number between 1 and 100. When the 
 player clicks the "check" button, the code checks if the player's
